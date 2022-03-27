@@ -1,6 +1,6 @@
 # Mailer
 Send email by python
-<h3>How to use:</h3>
+<h2>How to use:</h2>
 <p>
   smtp url: smtp.gmail.com<br>
   port number: 587<br>
