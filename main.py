@@ -17,7 +17,7 @@ def main():
     print('* Receiver informations *')
     receiver = input('Enter the receiver: ')
     subject = input('Enter the subject: ')
-    txt = input('Enter the path of text file: ')
+    txt = input('Enter the path of text file:(default: msg.txt) ')
     ### connection
     server = smtplib.SMTP(smtp, port)
     server.ehlo()
