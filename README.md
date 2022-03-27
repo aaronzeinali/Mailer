@@ -10,4 +10,5 @@ Send email by python
   subject: Hello<br>
   path of text file: msg.txt
 </p>  
+<hr>
 <h5>* All is just an example *</h5>  
